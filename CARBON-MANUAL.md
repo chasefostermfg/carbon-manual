@@ -5,7 +5,7 @@ site behind docs.carbon.ms) with a brand-new **User Manual** added — a written
 tutorial that mirrors [Carbon Academy](https://learn.carbon.ms) for people who'd rather read than
 watch. It uses real data from the **Acme Inc.** demo company throughout.
 
-- **Live demo:** _(set after first deploy)_ `https://chasefostermfg.github.io/carbon-manual/`
+- **Live demo:** **https://chasefostermfg.github.io/carbon-manual/** (the bare URL redirects to the manual)
 - **Built with:** Fumadocs v15 · Next.js 15 · Tailwind v4 · MDX (unchanged from upstream).
 
 ## What was added (the manual)
